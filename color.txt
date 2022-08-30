@@ -4,3 +4,11 @@ primary =
 yellow =
 #FFC300
 #F2DF3A
+red =
+#890F0D
+#AD2828
+
+#f5365c
+green=
+#2B7A0B
+#5BB318
