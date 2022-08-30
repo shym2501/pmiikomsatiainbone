@@ -1,0 +1,6 @@
+primary = 
+#075BAA
+#0a73d5
+yellow =
+#FFC300
+#F2DF3A
